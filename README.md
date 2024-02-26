@@ -3,7 +3,7 @@ We are using the protobufs created at <https://github.com/weesstt/starfish-marke
 
 ## Consumer Methods
 Description:
-    Asks the market server to send all the producers currently serving the file.
+    <br>Asks the market server to send all the producers currently serving the file.
 Parameters: 
     [String] hash -> the hash of the file you want
 Returns:
